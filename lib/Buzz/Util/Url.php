@@ -1,9 +1,9 @@
 <?php
 
-namespace Buzz\Util;
+namespace kriswallsmith\Buzz\Util;
 
-use Buzz\Message\RequestInterface;
-use Buzz\Exception\InvalidArgumentException;
+use kriswallsmith\Buzz\Message\RequestInterface;
+use kriswallsmith\Buzz\Exception\InvalidArgumentException;
 
 class Url
 {

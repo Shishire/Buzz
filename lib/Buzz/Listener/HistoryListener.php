@@ -1,10 +1,10 @@
 <?php
 
-namespace Buzz\Listener;
+namespace kriswallsmith\Buzz\Listener;
 
-use Buzz\Listener\History\Journal;
-use Buzz\Message\MessageInterface;
-use Buzz\Message\RequestInterface;
+use kriswallsmith\Buzz\Listener\History\Journal;
+use kriswallsmith\Buzz\Message\MessageInterface;
+use kriswallsmith\Buzz\Message\RequestInterface;
 
 class HistoryListener implements ListenerInterface
 {

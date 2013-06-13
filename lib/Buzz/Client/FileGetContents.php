@@ -1,11 +1,11 @@
 <?php
 
-namespace Buzz\Client;
+namespace kriswallsmith\Buzz\Client;
 
-use Buzz\Message\MessageInterface;
-use Buzz\Message\RequestInterface;
-use Buzz\Util\CookieJar;
-use Buzz\Exception\ClientException;
+use kriswallsmith\Buzz\Message\MessageInterface;
+use kriswallsmith\Buzz\Message\RequestInterface;
+use kriswallsmith\Buzz\Util\CookieJar;
+use kriswallsmith\Buzz\Exception\ClientException;
 
 class FileGetContents extends AbstractStream
 {

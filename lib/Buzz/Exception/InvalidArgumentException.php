@@ -1,6 +1,6 @@
 <?php
 
-namespace Buzz\Exception;
+namespace kriswallsmith\Buzz\Exception;
 
 /**
  * Thrown when an invalid argument is provided.

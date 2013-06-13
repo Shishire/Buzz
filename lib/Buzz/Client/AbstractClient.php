@@ -1,6 +1,6 @@
 <?php
 
-namespace Buzz\Client;
+namespace kriswallsmith\Buzz\Client;
 
 abstract class AbstractClient implements ClientInterface
 {

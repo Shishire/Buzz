@@ -1,9 +1,9 @@
 <?php
 
-namespace Buzz\Util;
+namespace kriswallsmith\Buzz\Util;
 
-use Buzz\Message\MessageInterface;
-use Buzz\Message\RequestInterface;
+use kriswallsmith\Buzz\Message\MessageInterface;
+use kriswallsmith\Buzz\Message\RequestInterface;
 
 class CookieJar
 {

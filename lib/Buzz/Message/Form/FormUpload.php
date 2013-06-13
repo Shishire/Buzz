@@ -1,8 +1,8 @@
 <?php
 
-namespace Buzz\Message\Form;
+namespace kriswallsmith\Buzz\Message\Form;
 
-use Buzz\Message\AbstractMessage;
+use kriswallsmith\Buzz\Message\AbstractMessage;
 
 class FormUpload extends AbstractMessage implements FormUploadInterface
 {

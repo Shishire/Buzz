@@ -1,8 +1,8 @@
 <?php
 
-namespace Buzz\Message\Form;
+namespace kriswallsmith\Buzz\Message\Form;
 
-use Buzz\Message\MessageInterface;
+use kriswallsmith\Buzz\Message\MessageInterface;
 
 interface FormUploadInterface extends MessageInterface
 {

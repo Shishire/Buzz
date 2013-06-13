@@ -1,8 +1,8 @@
 <?php
 
-namespace Buzz\Client;
+namespace kriswallsmith\Buzz\Client;
 
-use Buzz\Message\RequestInterface;
+use kriswallsmith\Buzz\Message\RequestInterface;
 
 abstract class AbstractStream extends AbstractClient
 {

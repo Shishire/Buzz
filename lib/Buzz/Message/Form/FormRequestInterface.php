@@ -1,8 +1,8 @@
 <?php
 
-namespace Buzz\Message\Form;
+namespace kriswallsmith\Buzz\Message\Form;
 
-use Buzz\Message\RequestInterface;
+use kriswallsmith\Buzz\Message\RequestInterface;
 
 /**
  * An HTTP request message sent by a web form.

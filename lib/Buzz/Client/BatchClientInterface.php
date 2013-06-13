@@ -1,6 +1,6 @@
 <?php
 
-namespace Buzz\Client;
+namespace kriswallsmith\Buzz\Client;
 
 interface BatchClientInterface extends ClientInterface
 {

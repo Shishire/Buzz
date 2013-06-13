@@ -1,6 +1,6 @@
 <?php
 
-namespace Buzz\Exception;
+namespace kriswallsmith\Buzz\Exception;
 
 /**
  * Thrown whenever a client process fails.

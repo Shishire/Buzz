@@ -1,16 +1,16 @@
 <?php
 
-namespace Buzz;
+namespace kriswallsmith\Buzz;
 
-use Buzz\Client\ClientInterface;
-use Buzz\Client\FileGetContents;
-use Buzz\Listener\ListenerChain;
-use Buzz\Listener\ListenerInterface;
-use Buzz\Message\Factory\Factory;
-use Buzz\Message\Factory\FactoryInterface;
-use Buzz\Message\MessageInterface;
-use Buzz\Message\RequestInterface;
-use Buzz\Util\Url;
+use kriswallsmith\Buzz\Client\ClientInterface;
+use kriswallsmith\Buzz\Client\FileGetContents;
+use kriswallsmith\Buzz\Listener\ListenerChain;
+use kriswallsmith\Buzz\Listener\ListenerInterface;
+use kriswallsmith\Buzz\Message\Factory\Factory;
+use kriswallsmith\Buzz\Message\Factory\FactoryInterface;
+use kriswallsmith\Buzz\Message\MessageInterface;
+use kriswallsmith\Buzz\Message\RequestInterface;
+use kriswallsmith\Buzz\Util\Url;
 
 class Browser
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Buzz\Message\Factory;
+namespace kriswallsmith\Buzz\Message\Factory;
 
-use Buzz\Message\RequestInterface;
+use kriswallsmith\Buzz\Message\RequestInterface;
 
 interface FactoryInterface
 {

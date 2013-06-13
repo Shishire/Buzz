@@ -1,8 +1,8 @@
 <?php
 
-namespace Buzz\Message;
+namespace kriswallsmith\Buzz\Message;
 
-use Buzz\Util\Url;
+use kriswallsmith\Buzz\Util\Url;
 
 class Request extends AbstractMessage implements RequestInterface
 {

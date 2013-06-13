@@ -1,12 +1,12 @@
 <?php
 
-namespace Buzz\Client;
+namespace kriswallsmith\Buzz\Client;
 
-use Buzz\Message\Form\FormRequestInterface;
-use Buzz\Message\Form\FormUploadInterface;
-use Buzz\Message\MessageInterface;
-use Buzz\Message\RequestInterface;
-use Buzz\Exception\ClientException;
+use kriswallsmith\Buzz\Message\Form\FormRequestInterface;
+use kriswallsmith\Buzz\Message\Form\FormUploadInterface;
+use kriswallsmith\Buzz\Message\MessageInterface;
+use kriswallsmith\Buzz\Message\RequestInterface;
+use kriswallsmith\Buzz\Exception\ClientException;
 
 /**
  * Base client class with helpers for working with cURL.

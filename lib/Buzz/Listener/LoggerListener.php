@@ -1,10 +1,10 @@
 <?php
 
-namespace Buzz\Listener;
+namespace kriswallsmith\Buzz\Listener;
 
-use Buzz\Message\MessageInterface;
-use Buzz\Message\RequestInterface;
-use Buzz\Exception\InvalidArgumentException;
+use kriswallsmith\Buzz\Message\MessageInterface;
+use kriswallsmith\Buzz\Message\RequestInterface;
+use kriswallsmith\Buzz\Exception\InvalidArgumentException;
 
 class LoggerListener implements ListenerInterface
 {

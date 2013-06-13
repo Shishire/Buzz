@@ -1,8 +1,8 @@
 <?php
 
-namespace Buzz\Util;
+namespace kriswallsmith\Buzz\Util;
 
-use Buzz\Message\RequestInterface;
+use kriswallsmith\Buzz\Message\RequestInterface;
 
 class Cookie
 {

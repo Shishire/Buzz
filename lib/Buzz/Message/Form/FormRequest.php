@@ -1,9 +1,9 @@
 <?php
 
-namespace Buzz\Message\Form;
+namespace kriswallsmith\Buzz\Message\Form;
 
-use Buzz\Message\Request;
-use Buzz\Exception\LogicException;
+use kriswallsmith\Buzz\Message\Request;
+use kriswallsmith\Buzz\Exception\LogicException;
 
 /**
  * FormRequest.

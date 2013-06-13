@@ -1,9 +1,9 @@
 <?php
 
-namespace Buzz\Listener;
+namespace kriswallsmith\Buzz\Listener;
 
-use Buzz\Message\MessageInterface;
-use Buzz\Message\RequestInterface;
+use kriswallsmith\Buzz\Message\MessageInterface;
+use kriswallsmith\Buzz\Message\RequestInterface;
 
 interface ListenerInterface
 {

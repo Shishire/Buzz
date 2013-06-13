@@ -1,6 +1,6 @@
 <?php
 
-namespace Buzz\Exception;
+namespace kriswallsmith\Buzz\Exception;
 
 class RuntimeException extends \RuntimeException implements ExceptionInterface
 {

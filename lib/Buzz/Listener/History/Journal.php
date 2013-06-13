@@ -1,9 +1,9 @@
 <?php
 
-namespace Buzz\Listener\History;
+namespace kriswallsmith\Buzz\Listener\History;
 
-use Buzz\Message\MessageInterface;
-use Buzz\Message\RequestInterface;
+use kriswallsmith\Buzz\Message\MessageInterface;
+use kriswallsmith\Buzz\Message\RequestInterface;
 
 class Journal implements \Countable, \IteratorAggregate
 {

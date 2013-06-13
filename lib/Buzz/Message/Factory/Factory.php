@@ -1,11 +1,11 @@
 <?php
 
-namespace Buzz\Message\Factory;
+namespace kriswallsmith\Buzz\Message\Factory;
 
-use Buzz\Message\Form\FormRequest;
-use Buzz\Message\Request;
-use Buzz\Message\RequestInterface;
-use Buzz\Message\Response;
+use kriswallsmith\Buzz\Message\Form\FormRequest;
+use kriswallsmith\Buzz\Message\Request;
+use kriswallsmith\Buzz\Message\RequestInterface;
+use kriswallsmith\Buzz\Message\Response;
 
 class Factory implements FactoryInterface
 {

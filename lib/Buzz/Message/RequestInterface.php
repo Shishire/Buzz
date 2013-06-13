@@ -1,6 +1,6 @@
 <?php
 
-namespace Buzz\Message;
+namespace kriswallsmith\Buzz\Message;
 
 /**
  * An HTTP request message.
